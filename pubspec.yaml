@@ -1,6 +1,7 @@
 name: tqdm
-description: A sample command-line application.
+description: A Dart port of the Python tqdm library.
 version: 1.0.0
+repository: https://github.com/fa0311/tqdm_dart
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
