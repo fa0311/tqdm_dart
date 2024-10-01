@@ -1,6 +1,6 @@
 # tqdm
 
-A Dart port of the Python tqdm library.
+A Dart progress bar package inspired by Python's tqdm.
 
 ## Usage
 
