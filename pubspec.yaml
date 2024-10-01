@@ -1,6 +1,6 @@
 name: tqdm
 description: A Dart progress bar package inspired by Python's tqdm.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/fa0311/tqdm_dart
 
 environment:
